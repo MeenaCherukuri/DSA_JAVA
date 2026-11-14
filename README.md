@@ -20,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/MeenaCherukuri/DSA_JAVA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
